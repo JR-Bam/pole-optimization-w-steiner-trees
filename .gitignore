@@ -29,7 +29,7 @@
 *.nlo
 *.nls
 *.out
-*.pdf
+algorithm_documentation.pdf
 *.pyg
 *.run.xml
 *.snm
